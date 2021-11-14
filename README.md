@@ -1,10 +1,8 @@
 # Challenge 12-mysql-employee-tracker
 
-- [Live Link to Demo]()
-
 ## Demo
 
-Please click
+- [Live Link to Demo]()
 
 ## User Story
 
@@ -14,21 +12,21 @@ I want to be able to view and manage the departments, roles, and employees in my
 So that I can organize and plan my business
 ```
 
-# Tech Used
+# Technologies Used
 
-- inquirer
-- mySQL
-- console.table
-- Javascript
-- Node.js
+1. inquirer
+2. mySQL
+3. console.table
+4. Javascript
+5. Node.js
 
-# Usage
+# How to get it running
 
 npm i
 npm i inquirer
 npm i mysql
 npm i console.table
-make sure to run .sql file in mySQL workbench before running server.js so that tables are able to render correctly
+You must have a .sql file opened in MYSQL
 run node server.js
 make sure server.js is connected to SQL before continuing
 run through prompts as required

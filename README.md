@@ -2,7 +2,7 @@
 
 ## Demo
 
-- [Live Link to Demo]()
+- [Live Link to Demo]("https://drive.google.com/file/d/10I_ZiRgG4tFIwzS8ZbmPSti2LSbzsoXP/view?usp=sharing")
 
 ## User Story
 
@@ -32,3 +32,7 @@ make sure server.js is connected to SQL before continuing
 run through prompts as required
 
 # Repository
+
+# Git Link: https://github.com/mambu1998/Challenge-12
+
+# Video Link: https://drive.google.com/file/d/10I_ZiRgG4tFIwzS8ZbmPSti2LSbzsoXP/view?usp=sharing
